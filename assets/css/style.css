@@ -1,0 +1,31 @@
+@font-face {
+    font-family: hand_writing;
+    src: url("../font/Cookie-Regular.ttf");
+}
+.happy .jumbotron{
+    background-color: #F43B86;
+    /* background-image: url("../img/background1.jpg"); */
+    background-size: cover;
+    color: white;
+    padding-top: 10rem;
+    font-family: 'hand_writing';
+}
+.jumbotron h1{
+    font-size: 70px;
+}
+.jumbotron h3{
+    font-size: 40px;
+}
+.wish{
+    min-height: 200px;
+}
+.wish .container{
+    font-family: 'hand_writing';
+}
+.wish .container h1{
+    font-size: 70px;
+}
+.kata{
+    padding: auto;
+    min-height: 200px;
+}
